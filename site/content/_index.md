@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Stop Guessing. Start Building."
+subtitle: The jargon-free guide to creating your first professional website
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Create Your Best Website?
+    text: "Building a website shouldn't feel like decoding an alien language. We break down the tech so you can focus on your business. Whether you are an entrepreneur, artist, or small business owner, we help you bridge the gap between an idea and a live URL."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "We are the ultimate spot for beginners who want to learn how the web actually works. We take hosting, design, and SEO seriously, and we’re glad to pass that knowledge to anyone starting from scratch."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    - image: /img/illustrations-coffee.svg
+      text: "Our Glossary breaks down the scary words (like DNS, SSL, and Hosting) into plain English. We believe you should understand the tools you are using without needing a computer science degree."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Our Toolbox is a curated selection of the only 3-4 tools you actually need to launch. No bloat, no wasted money—just the essentials for every experience level to build a professional site."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our Roadmap
+    text: "The web is an amazing part of human culture, but it can be overwhelming and expensive for newcomers. We want to turn this around by making web education exhilarating, empowering, and unified. We're here to make sure your first site is your best site."
 ---
-
